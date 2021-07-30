@@ -4,3 +4,4 @@ gitの勉強を始めます。
 - git commit
 - status
 - git DIFF head
+- try push
